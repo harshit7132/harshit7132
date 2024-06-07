@@ -38,6 +38,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7132&" alt="harshit7132" /></p>
 
+![snake gif](https://github.com/harshit7132/harshit7132/blob/output/github-contribution-grid-snake.gif)
+
 <!---
 harshit7132/harshit7132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
