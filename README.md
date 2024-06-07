@@ -37,8 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit7132&show_icons=true&locale=en" alt="harshit7132" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7132&" alt="harshit7132" /></p>
-
-<img alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
+</br>
+</br>
+<img align="center" alt="Coding" width="100%"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
 
 <!---
 harshit7132/harshit7132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
