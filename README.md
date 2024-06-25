@@ -1,5 +1,3 @@
-![logo](https://github.com/harshit7132/harshit7132/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.jpg)
-
 <h1 align="center">Hi 👋, I'm Harshit vyas</h1>
 <h3 align="center">A Passionate Flutter Developer & Mentor</h3>
 
@@ -44,6 +42,7 @@
 <!---
 harshit7132/harshit7132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
 
 
