@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7132&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7132" /> </p>
 
-- 🔭 I’m currently working in [WsCube Tech](https://www.wscubetech.com/)
+- 🔭 I’m currently working at [WsCube Tech](https://www.wscubetech.com/)
 
 - 🌱 I’m currently learning **Flame, Unreal 5**
 
-- 👯 I’m looking to collaborate on **Instagram**
+- 👯 You can follow me on **Instagram**
 
 - 💞️ I’m looking to collaborate with **You...**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Firebase, State Management, Restful Api's**
 
-- 📫 How to reach me **harshit.vyas@wscubetech.com**
+- 📫 How to reach me **harshitvyas880@gmail.com**
 
 - ⚡ Fun fact **I'm 20**
 
