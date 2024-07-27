@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit vyas</h1>
-<h3 align="center">A Passionate Flutter Developer & Mentor</h3>
+<h3 align="center">A Passionate FullStack Flutter Developer & Mentor</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [WsCube Tech](https://www.wscubetech.com/)
 
-- 🌱 I’m currently learning **Flame, Unreal 5**
+- 🌱 I’m currently learning **Vania**
 
 - 👯 You can follow me on **Instagram**
 
