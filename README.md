@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at [Adiyogi Technosoft Pvt Ltd.](https://adiyogitechnosoft.com/)
 
-- 🌱 I’m currently learning **Vania**
-
-- 👯 You can follow me on **Instagram**
+- 🌱 I’m currently learning [Vania](https://vdart.dev/docs/intro/)
+ 
+- 👯 You can follow me on [Linkedin]([https://www.instagram.com/luff_y7132/profilecard/?igsh=NWk5dzV4bzg1Mnhr](https://www.linkedin.com/in/iamharshitvyas/)) & [Instagram](https://www.instagram.com/luff_y7132/profilecard/?igsh=NWk5dzV4bzg1Mnhr)
 
 - 💞️ I’m looking to collaborate with **You...**
 
