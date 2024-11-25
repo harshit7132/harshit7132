@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit vyas</h1>
-<h3 align="center">A Passionate FullStack Flutter Developer</h3>
+<h3 align="center">A Passionate FullStack Flutter Developer & Graphic Designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning [Vania](https://vdart.dev/docs/intro/)
  
-- 👯 You can follow me on [Linkedin]([https://www.instagram.com/luff_y7132/profilecard/?igsh=NWk5dzV4bzg1Mnhr](https://www.linkedin.com/in/iamharshitvyas/)) & [Instagram](https://www.instagram.com/luff_y7132/profilecard/?igsh=NWk5dzV4bzg1Mnhr)
+- 👯 You can follow me on [Linkedin](https://www.linkedin.com/in/iamharshitvyas/) & [Instagram](https://www.instagram.com/luff_y7132/profilecard/?igsh=NWk5dzV4bzg1Mnhr)
 
 - 💞️ I’m looking to collaborate with **You...**
 
