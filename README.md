@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Firebase, State Managements, Restful Api's**
 
-- 📫 How to reach me **harshitvyas880@gmail.com**
+- 📫 Fell Free to reach me **harshitvyas880@gmail.com**
 
 - ⚡ Fun fact **I'm 22**
 
