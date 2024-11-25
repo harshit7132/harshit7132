@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshit vyas</h1>
-<h3 align="center">A Passionate FullStack Flutter Developer & Mentor</h3>
+<h3 align="center">A Passionate FullStack Flutter Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7132&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7132" /> </p>
 
-- 🔭 I’m currently working at [WsCube Tech](https://www.wscubetech.com/)
+- 🔭 I’m currently working at [Adiyogi Technosoft Pvt Ltd.](https://adiyogitechnosoft.com/)
 
 - 🌱 I’m currently learning **Vania**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-a5ea6.web.app/](https://my-portfolio-a5ea6.web.app/)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, State Management, Restful Api's**
+- 💬 Ask me about **Flutter, Dart, Firebase, State Managements, Restful Api's**
 
 - 📫 How to reach me **harshitvyas880@gmail.com**
 
-- ⚡ Fun fact **I'm 20**
+- ⚡ Fun fact **I'm 22**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
