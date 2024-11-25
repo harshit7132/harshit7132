@@ -11,7 +11,7 @@
  
 - 👯 You can follow me on [Linkedin](https://www.linkedin.com/in/iamharshitvyas/) & [Instagram](https://www.instagram.com/luff_y7132/profilecard/?igsh=NWk5dzV4bzg1Mnhr)
 
-- 💞️ I’m looking to collaborate with **You...**
+- 💞️ I am looking to collaborate with **Clients** to transform innovative ideas into tangible, impactful solutions.
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-a5ea6.web.app/](https://my-portfolio-a5ea6.web.app/)
 
